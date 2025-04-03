@@ -9,8 +9,6 @@ REPRODUCIBILITY OF FIGURES:
 All the jupyter notebooks presented here (in the folder 'scripts_figures') will generate the figures of the paper.
 The title of each jupyter notebook corresponds to the desired figure. Running them will show and save the desired figure. 
 
-Note: The scripts of the figures named "New..." Represent the final figure version used for the revised paper (I apologies the codes are not as cleaned as the previous version, you can find them there as well to have a look at the comments and better understand how they work).
-
 To run the jupyter notebooks codes you only need: 
 - python >=3.0
 - jupyter notebook: https://jupyter.org/
