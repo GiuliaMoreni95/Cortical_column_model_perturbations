@@ -4,13 +4,11 @@ This project folder contains everything you need to reproduce the results in the
 'Cell type specific firing patterns in a V1 cortical column model depend on feedforward and feedback driven states' Moreni et Al. 
 https://www.biorxiv.org/content/10.1101/2024.04.02.587673v1.full
 
-
-
 REPRODUCIBILITY OF FIGURES:
 All the jupyter notebooks presented here (in the folder 'scripts_figures') will generate the figures of the paper.
 The title of each jupyter notebook corresponds to the desired figure. Running them will show and save the desired figure. 
 
-Note: The scripts of the figures named "New..." Represent the new figure version used for the revised paper (I apologies they are not as cleaned as the previous version provided for the first version of the paper, you can find them as well to have a look at the comments)
+Note: The scripts of the figures named "New..." Represent the new figure version used for the revised paper (I apologies they are not as cleaned as the previous versio, you can find them as well to have a look at the comments and better understand how they work)
 
 To run the jupyter notebooks codes you only need: 
 - python >=3.0
@@ -56,3 +54,5 @@ g.moreni@uva.nl and I will be happy to help you!
 Best,
 
 Giulia Moreni
+
+P.S. A special thanks to Rares Dorcioman who helped also with the release of this GitHub repo! 
