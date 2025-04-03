@@ -47,7 +47,7 @@ Once you have Brian (and python) installed in your machine (and you have downloa
 
 In order to run the code multiple times in an authomatic way (with a perturbative input each time going to a different cell group, and also with different perturbative inputs) I used several scripts "script_iterations_......sh" that are able to call the main code multiple times with the desired parameters.
 This was useful to faster perform the perturbation analysis. 
-I apologies: those .sh scripts are not well commented but I upload them here anyways (because in case you want to do extra analysis they might be useful to you).
+I apologies: those .sh scripts are not well commented but I uploaded them here anyways (because in case you want to do extra analysis they might be useful to you).
 
 
 FINAL REMARKS:
