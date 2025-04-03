@@ -49,8 +49,9 @@ I apologies: these are note commented well but I upload them here anyways. In ca
 
 
 FINAL REMARKS:
-If you run into any problem while reproducing the results you can always contact me at 
-g.moreni@uva.nl and I will be happy to help you!
+In each folder there are additional README files to help you navigating the project and reproducing the results/figures.
+
+If you run into any problem while reproducing the results you can always contact me at g.moreni@uva.nl and I will be happy to help you!
 
 Best,
 
