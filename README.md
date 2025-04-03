@@ -43,9 +43,8 @@ To run the MAIN CODE Brain2 should be installed. See https://brian2.readthedocs.
 Once you have Brian (and python) installed in your machine (and you have downloaded this project folder) to run the desired simulation just type in your terminal: 
 'python MAIN_CODE_iterate_perturb.py' 
 
-In order to run the code multiple times in an authomatic way (with a perturbative input each time going to a different cell group, and also with different perturbative inputs) I used several scripts script_iterations_......sh that are able to run the main code multiple times with the desired parameters.
+In order to run the code multiple times in an authomatic way (with a perturbative input each time going to a different cell group, and also with different perturbative inputs) I used several scripts "script_iterations_......sh" that are able to call the main code multiple times with the desired parameters.
 This was useful to faster perform the perturbation analysis. 
-
 I apologies: those .sh scripts are not well commented but I upload them here anyways (because in case you want to do extra analysis they might be useful to you).
 
 
