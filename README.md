@@ -10,7 +10,7 @@ REPRODUCIBILITY OF FIGURES:
 All the jupyter notebooks presented here (in the folder 'scripts_figures') will generate the figures of the paper.
 The title of each jupyter notebook corresponds to the desired figure. Running them will show and save the desired figure. 
 
-Note: The scripts of the figures named "New..." Represent the new figure version used for the revised paper (I apologies they are not as cleaned as the previous code version provided for the 1st version of the paper, you can find that outside this folder)
+Note: The scripts of the figures named "New..." Represent the new figure version used for the revised paper (I apologies they are not as cleaned as the previous version provided for the first version of the paper, you can find them as well to have a look at the comments)
 
 To run the jupyter notebooks codes you only need: 
 - python >=3.0
@@ -43,10 +43,10 @@ See https://brian2.readthedocs.io/en/stable/introduction/install.html for instal
 Once you have Brian (and python) installed in your machine (and you have downloaded this porject folder) to run the desired simulation just type in your terminal: 
 'python MAIN_CODE_iterate.py' 
 
-In order to run the script multiple times with a perturbative input each time going to a different cell group, and also with different perturbative inputs that the reviewer asked etc. 
+In order to run the script multiple times with a perturbative input each time going to a different cell group, and also with different perturbative inputs.
 I used several scripts script_iterations_......sh that call the main code multiple times. 
 (This was useful for the perturbation analysis).
-I apologies: this are note commented  well but I upload them here anyways in case you want to do extra analysis. They might be useful. 
+I apologies: these are note commented well but I upload them here anyways in case you want to do extra analysis. They might be useful. 
 
 
 FINAL REMARKS:
