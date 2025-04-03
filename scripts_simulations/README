@@ -1,7 +1,6 @@
 All the data in 'simulations_data' were generated with the code MAIN_CODE_iterate_perturb.py contained in 'scripts_simulations'.
 
-To run the MAIN CODE Brain2 should be installed. 
-See https://brian2.readthedocs.io/en/stable/introduction/install.html for installations.
+To run the MAIN CODE Brain2 should be installed. See https://brian2.readthedocs.io/en/stable/introduction/install.html for installations.
 Once you have Brian (and python) installed in your machine (and you have downloaded this porject folder) to run the desired simulation just type in your terminal: 
 'python MAIN_CODE_iterate_perturb.py' 
 
