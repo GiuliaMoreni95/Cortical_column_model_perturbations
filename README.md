@@ -40,7 +40,7 @@ All the data in 'simulations_data' were generated with the code contained in 'sc
 
 To run the MAIN CODE Brain2 should be installed. See https://brian2.readthedocs.io/en/stable/introduction/install.html for installations.
 Once you have Brian (and python) installed in your machine (and you have downloaded this porject folder) to run the desired simulation just type in your terminal: 
-'python MAIN_CODE_iterate.py' 
+'python MAIN_CODE_iterate_perturb.py' 
 
 In order to run the script multiple times with a perturbative input each time going to a different cell group, and also with different perturbative inputs.
 I used several scripts script_iterations_......sh that call the main code multiple times. 
