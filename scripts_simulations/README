@@ -5,7 +5,7 @@ See https://brian2.readthedocs.io/en/stable/introduction/install.html for instal
 Once you have Brian (and python) installed in your machine (and you have downloaded this porject folder) to run the desired simulation just type in your terminal: 
 'python MAIN_CODE_iterate_perturb.py' 
 
-There are several files MAIN_CODE_iterate_*.py, these are just the ones I used for the different simulations of the paper (keeping FF constant and varying FB and viceversa, etc.), is just a matter of changing the parameters goi are interested in, you can create your own version from the main one "MAIN_CODE_iter_perturb".
+There are several files MAIN_CODE_iterate_*.py, these are just the ones I used for the different simulations of the paper (keeping FF constant and varying FB and viceversa, etc.), is just a matter of changing the parameters you are interested in, you can create your own desired version from the one "MAIN_CODE_iter_perturb".
 
 
 In order to run the script multiple times with a perturbative input each time going to a different cell group I used the script script_iterations_perturbation.sh
