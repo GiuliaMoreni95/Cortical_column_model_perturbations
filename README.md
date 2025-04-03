@@ -5,6 +5,7 @@ This project folder contains everything you need to reproduce the results in the
 https://www.biorxiv.org/content/10.1101/2024.04.02.587673v1.full
 
 
+
 REPRODUCIBILITY OF FIGURES:
 
 All the jupyter notebooks presented here (in the folder 'scripts_figures') will generate the figures of the paper.
@@ -51,7 +52,7 @@ I apologies: those .sh scripts are not well commented but I upload them here any
 
 FINAL REMARKS:
 
-In each folder there are additional README files to help you navigating the project and reproducing the results/figures.
+In each folder there are additional README files to help you navigate the project and reproduce the results/figures.
 
 If you run into any problem while reproducing the results you can always contact me at g.moreni@uva.nl and I will be happy to help you!
 
