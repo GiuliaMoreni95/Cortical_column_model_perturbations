@@ -39,6 +39,7 @@ Keep the structure of the folder intact to be able to run the jupyter notebooks 
 Download the entire folder and then just run the jupyter notebooks/main codes in your machine. 
 
 MAIN CODE:
+
 All the data in 'simulations_data' were generated with the code contained in 'scripts_simulations'.
 
 To run the MAIN CODE Brain2 should be installed. See https://brian2.readthedocs.io/en/stable/introduction/install.html for installations.
