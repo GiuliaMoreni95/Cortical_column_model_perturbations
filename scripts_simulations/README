@@ -7,7 +7,7 @@ Once you have Brian (and python) installed in your machine (and you have downloa
 
 There are several files MAIN_CODE_iterate_*.py, these are just the ones I used for the different simulations of the paper (keeping FF constant and varying FB and viceversa, etc.), is just a matter of changing the parameters you are interested in, you can create your own desired version from the code "MAIN_CODE_iter_perturb.py".
 
-In order to run the script multiple times with a perturbative input each time going to a different cell group I used the script script_iterations_perturbation.sh
+In order to run the script multiple times in an authomatic way, with a perturbative input each time going to a different cell group, I used the script script_iterations_perturbation.sh
 (This was useful for the perturbation analysis). 
 #To run this just type in your terminal:
 chmod +x script_iterations_perturbation.sh
