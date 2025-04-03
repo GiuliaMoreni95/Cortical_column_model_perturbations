@@ -1,4 +1,4 @@
-All the data in 'simulations_data' were generated with the code MAIN_CODE_iterate.py contained in 'scripts_simulations'.
+All the data in 'simulations_data' were generated with the code MAIN_CODE_iterate_perturb.py contained in 'scripts_simulations'.
 
 To run the MAIN CODE Brain2 should be installed. 
 See https://brian2.readthedocs.io/en/stable/introduction/install.html for installations.
